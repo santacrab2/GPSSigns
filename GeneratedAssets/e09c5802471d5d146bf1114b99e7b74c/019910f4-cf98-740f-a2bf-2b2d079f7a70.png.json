@@ -1,0 +1,20 @@
+{
+    "asset": "e09c5802471d5d146bf1114b99e7b74c",
+    "fileName": "019910f4-cf98-740f-a2bf-2b2d079f7a70.png",
+    "prompt": "a single ancient stone gray in color by itself with a transparent background and green moss sitting on the top",
+    "negativePrompt": "blurry, multiple stones",
+    "model": "4d662a89-b8ca-4652-a119-f3963d923bbb",
+    "modelName": "Bold Line Environments",
+    "customSeed": -1,
+    "w3CTraceId": "39c448fdcb7885a3f9cc7e970560685e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

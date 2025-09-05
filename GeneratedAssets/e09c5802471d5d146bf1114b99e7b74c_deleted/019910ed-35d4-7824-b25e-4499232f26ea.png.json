@@ -1,0 +1,20 @@
+{
+    "asset": "e09c5802471d5d146bf1114b99e7b74c",
+    "fileName": "019910ed-35d4-7824-b25e-4499232f26ea.png",
+    "prompt": "gray stone that looks aged that can be used as a button",
+    "negativePrompt": "blurry",
+    "model": "4d662a89-b8ca-4652-a119-f3963d923bbb",
+    "modelName": "Bold Line Environments",
+    "customSeed": -1,
+    "w3CTraceId": "891082ce6a1a7f5299522b596bd6cc14",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

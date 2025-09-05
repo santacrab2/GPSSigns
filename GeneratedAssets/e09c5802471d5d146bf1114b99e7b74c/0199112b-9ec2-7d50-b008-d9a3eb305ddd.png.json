@@ -1,0 +1,20 @@
+{
+    "asset": "e09c5802471d5d146bf1114b99e7b74c",
+    "fileName": "0199112b-9ec2-7d50-b008-d9a3eb305ddd.png",
+    "prompt": "a single ancient stone slab, gray in color, by itself, with a transparent background, and green moss sitting on the top",
+    "negativePrompt": "blurry, multiple stones",
+    "model": "4d662a89-b8ca-4652-a119-f3963d923bbb",
+    "modelName": "Bold Line Environments",
+    "customSeed": -1,
+    "w3CTraceId": "953c1222ae85416eb6ca2913f6bed7f6",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

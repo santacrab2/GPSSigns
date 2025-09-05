@@ -1,0 +1,20 @@
+{
+    "asset": "9f510f0e2b102d547bc73be883f0a4b7",
+    "fileName": "0198d8c2-8d83-7ba4-9e14-0e6998a205c9.png",
+    "prompt": "a realistic soothing nature trail, creek with tea colored water, lots of pine trees",
+    "negativePrompt": "blurry",
+    "model": "48889f10-63e9-4608-8eea-a668ac2aff3e",
+    "modelName": "Casual Environments",
+    "customSeed": -1,
+    "w3CTraceId": "ef0ef35b343210a9a06f050304a7fae6",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
