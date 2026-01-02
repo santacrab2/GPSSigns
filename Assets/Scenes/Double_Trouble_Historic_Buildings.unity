@@ -415,6 +415,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89621327339601
   longitude: -74.22340287951853
   altitude: -14.7426687087
@@ -470,13 +472,15 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89758691822885
   longitude: -74.22264302403494
   altitude: -14.7426687087
   rotation: 0
   spawnRadius: 500
   faceplayer: 1
-  DisplaySignText: Pickers Cottage & Public Restrooms
+  DisplaySignText: Company Foremans House
 --- !u!4 &582905844
 Transform:
   m_ObjectHideFlags: 0
@@ -524,6 +528,8 @@ MonoBehaviour:
   anchorManager: {fileID: 2512387470422636671}
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
+    type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
     type: 3}
   latitude: 39.8960736551126
   longitude: -74.22284889853233
@@ -580,6 +586,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89574326703362
   longitude: -74.22331155166098
   altitude: -14.7426687087
@@ -634,6 +642,8 @@ MonoBehaviour:
   anchorManager: {fileID: 2512387470422636671}
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
+    type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
     type: 3}
   latitude: 39.89717366195861
   longitude: -74.22291673537067
@@ -800,6 +810,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89575769924197
   longitude: -74.22360665344107
   altitude: -14.7426687087
@@ -854,6 +866,8 @@ MonoBehaviour:
   anchorManager: {fileID: 2512387470422636671}
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
+    type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
     type: 3}
   latitude: 39.89639343861754
   longitude: -74.22216129386628
@@ -910,6 +924,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89693507314369
   longitude: -74.22238806861778
   altitude: -14.5253780286
@@ -964,6 +980,8 @@ MonoBehaviour:
   anchorManager: {fileID: 2512387470422636671}
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
+    type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
     type: 3}
   latitude: 39.89739405907872
   longitude: -74.22210205779187
@@ -1156,6 +1174,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89664026584269
   longitude: -74.2221386436028
   altitude: -14.7426687087
@@ -1211,13 +1231,15 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89648861896534
   longitude: -74.22321206149059
   altitude: -14.7426687087
   rotation: 0
   spawnRadius: 500
   faceplayer: 1
-  DisplaySignText: Harvest Foremans House
+  DisplaySignText: Pickers Cottage
 --- !u!4 &1740593795
 Transform:
   m_ObjectHideFlags: 0
@@ -1362,6 +1384,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89631201221646
   longitude: -74.22273683807724
   altitude: -14.7426687087
@@ -1417,6 +1441,8 @@ MonoBehaviour:
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
     type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
   latitude: 39.89653277663414
   longitude: -74.2217236305314
   altitude: -14.9022468962
@@ -1471,6 +1497,8 @@ MonoBehaviour:
   anchorManager: {fileID: 2512387470422636671}
   earthManager: {fileID: 2512387470422636670}
   cubePrefab: {fileID: 2775770292067532859, guid: a070c6486d0bb8649a1edcebc3e2e75c,
+    type: 3}
+  popupPrefab: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
     type: 3}
   latitude: 39.8963595362203
   longitude: -74.22254736402154
@@ -1901,6 +1929,7 @@ GameObject:
   - component: {fileID: 2512387470422636642}
   - component: {fileID: 2512387470422636671}
   - component: {fileID: 2512387470422636670}
+  - component: {fileID: 2512387470422636672}
   m_Layer: 0
   m_Name: XR Origin (AR Rig)
   m_TagString: Untagged
@@ -1936,6 +1965,22 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_AnchorPrefab: {fileID: 0}
+--- !u!114 &2512387470422636672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2512387470422636669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa17d122634046b4a8e23048891fafc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARRaycastManager
+  <trackablesChanged>k__BackingField:
+    m_PersistentCalls:
+      m_Calls: []
+  m_RaycastPrefab: {fileID: 0}
 --- !u!4 &2512387470860572925
 Transform:
   m_ObjectHideFlags: 0

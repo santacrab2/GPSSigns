@@ -6,13 +6,14 @@ using System.Collections;
 using UnityEngine.Android;
 using TMPro;
 using Unity.XR.CoreUtils;
+using UnityEngine.InputSystem;
 
 public class PlaceAtGeoLocation : MonoBehaviour
 {
     public ARAnchorManager anchorManager;
     public AREarthManager earthManager;
-
     public GameObject cubePrefab; // Prefab to instantiate
+    public GameObject popupPrefab;
     public double latitude;
     public double longitude;
     public double altitude;
@@ -60,7 +61,15 @@ public class PlaceAtGeoLocation : MonoBehaviour
                 var mysign = Instantiate(cubePrefab, Vector3.zero, Quaternion.identity, anchor.transform);
                 mysign.transform.Rotate(0, rotation, 0);
                 var text = mysign.GetNamedChild("SignText").GetComponent<TextMeshPro>();
+                var backtext = mysign.GetNamedChild("SignTextback").GetComponent<TextMeshPro>();
                 text.text = DisplaySignText;
+                backtext.text = DisplaySignText;
+                var input = mysign.GetComponent<PlayerInput>();
+                input.camera = Camera.main;
+                var signscript = mysign.GetComponent<WoodSignClick>();
+                signscript.MainSign = mysign;
+                signscript.moreInfoText = DisplaySignText;
+                signscript.infoPanel = popupPrefab;
                 anchorPlaced = anchor;
                 placed = true;
 
